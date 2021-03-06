@@ -19,7 +19,7 @@ Eement in code
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://i2.wp.com/akibatan.com/wp-content/uploads/2016/01/animeanime-surveyed-how-japanese-watched-anime-in-2015.jpg?fit=1280%2C720&ssl=1) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
